@@ -44,6 +44,7 @@ Run the main menu script to start the application:
 ```
 
 ## 📁 File Structure
+```bash
 Rise_Academy/
 |__weather_info/
     |--dashboard.sh
@@ -55,3 +56,4 @@ Rise_Academy/
         |--netinfo.png
         |--sysinfo.png
         |--weather.png
+```
